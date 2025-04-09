@@ -33,15 +33,7 @@ class Calculator extends StatelessWidget {
                     '0',
                     style: TextStyle(color: Colors.black87, fontSize: 48),
                   ),
-                ),
-                Container(
-                  height: 20,
-                  alignment: Alignment.centerLeft,
-                  padding: EdgeInsets.symmetric(horizontal: 20),
-                  child: Text(
-                    'MC',
-                    style: TextStyle(color: Colors.red),
-                  ),
+                
                 ),
                 Expanded(
                   child: Padding(
