@@ -1,16 +1,11 @@
-# untitled
+앱 과제 실습 png
+1주차: ![alt text](image-1.png)
 
-A new Flutter project.
 
-## Getting Started
+2주차: ![alt text](image.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+4주차: ![alt text](image-2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5주차: ![alt text](image-3.png)
+        ![alt text](image-4.png)
