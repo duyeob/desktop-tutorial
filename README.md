@@ -11,3 +11,5 @@
         ![alt text](image-4.png)
 
 6주차: ![alt text](<App TIL/6week/첫번째 화면.png>) ![alt text](<App TIL/6week/두번째 화면.png>)
+
+7주차: ![alt text](<App TIL/7week/7주차.png>)
